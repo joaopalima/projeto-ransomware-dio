@@ -3,9 +3,8 @@
 Código para o desafio de projeto __Entendendo um Ransomware na Prática com Python__ do Santander Bootcamp Cibersegurança
 
 ## Criando os códigos
-1. criando arquivo .txt &nbsp;
-`nano teste.txt`
-
+1. criando arquivo .txt
+`nano testeransomware.txt`
 
 2. encrypter.py
 ```python
